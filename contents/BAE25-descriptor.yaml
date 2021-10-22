@@ -1,0 +1,72 @@
+id: 8345
+typeCode: BAE
+description: Content BAE 25 description
+mainGroup: free
+status: PUBLIC
+listModel: '204'
+defaultModel: '205'
+attributes:
+  - code: longtext02
+    value: null
+    values:
+      en: <p>Provident aliquid aut maxime doloribus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Provident aliquid aut maxime doloribus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text03
+    value: null
+    values:
+      en: <p>Provident aliquid aut maxime doloribus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Provident aliquid aut maxime doloribus.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

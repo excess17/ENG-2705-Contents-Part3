@@ -1,0 +1,84 @@
+id: 6656
+typeCode: AID
+description: Content AID 16 description
+mainGroup: free
+status: PUBLIC
+listModel: '78'
+defaultModel: '79'
+attributes:
+  - code: longtext01
+    value: null
+    values:
+      en: <p>Delectus molestias mollitia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Delectus molestias mollitia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text07
+    value: null
+    values:
+      en: <p>Delectus molestias mollitia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Delectus molestias mollitia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

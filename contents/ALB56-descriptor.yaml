@@ -1,0 +1,79 @@
+id: 7336
+typeCode: ALB
+description: Content ALB 56 description
+mainGroup: free
+status: PUBLIC
+listModel: '126'
+defaultModel: '127'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Nesciunt modi nam et fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Nesciunt modi nam et fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text00
+    value: null
+    values:
+      en: <p>Nesciunt modi nam et fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext05
+    value: null
+    values:
+      en: <p>Nesciunt modi nam et fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Nesciunt modi nam et fugit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

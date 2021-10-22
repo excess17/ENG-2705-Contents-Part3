@@ -1,0 +1,77 @@
+id: 7593
+typeCode: ALE
+description: Content ALE 73 description
+mainGroup: free
+status: PUBLIC
+listModel: '144'
+defaultModel: '145'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Sint architecto accusantium rem est et aliquid dicta.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Sint architecto accusantium rem est et aliquid dicta.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Sint architecto accusantium rem est et aliquid dicta.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,94 @@
+id: 5689
+typeCode: AHB
+description: Content AHB 9 description
+mainGroup: free
+status: PUBLIC
+listModel: '6'
+defaultModel: '7'
+attributes:
+  - code: longtext00
+    value: null
+    values:
+      en: <p>Aut nisi ipsum non hic numquam non.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist02
+    value: null
+    values: {}
+    elements:
+      - code: monolist02
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist02
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: checkbox08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Aut nisi ipsum non hic numquam non.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext11
+    value: null
+    values:
+      en: <p>Aut nisi ipsum non hic numquam non.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Aut nisi ipsum non hic numquam non.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

@@ -1,0 +1,94 @@
+id: 8146
+typeCode: BAB
+description: Content BAB 66 description
+mainGroup: free
+status: PUBLIC
+listModel: '186'
+defaultModel: '187'
+attributes:
+  - code: longtext11
+    value: null
+    values:
+      en: <p>Dolorum similique temporibus delectus nihil eligendi itaque officia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist05
+    value: null
+    values: {}
+    elements:
+      - code: monolist05
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist05
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Dolorum similique temporibus delectus nihil eligendi itaque officia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monotext04
+    value: null
+    values:
+      en: <p>Dolorum similique temporibus delectus nihil eligendi itaque officia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Dolorum similique temporibus delectus nihil eligendi itaque officia.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

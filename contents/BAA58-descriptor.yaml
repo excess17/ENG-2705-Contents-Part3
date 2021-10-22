@@ -1,0 +1,99 @@
+id: 8058
+typeCode: BAA
+description: Content BAA 58 description
+mainGroup: free
+status: PUBLIC
+listModel: '180'
+defaultModel: '181'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Consequatur non laudantium sint.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: number00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image05
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: hypertext07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: monolist08
+    value: null
+    values: {}
+    elements:
+      - code: monolist08
+        value: null
+        values:
+          en: list1 field
+          it: list1 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+      - code: monolist08
+        value: null
+        values:
+          en: list2 field
+          it: list2 field
+        elements: []
+        compositeelements: []
+        listelements: {}
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Consequatur non laudantium sint.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Consequatur non laudantium sint.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: email10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap04
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

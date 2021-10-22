@@ -1,0 +1,84 @@
+id: 6243
+typeCode: AHI
+description: Content AHI 3 description
+mainGroup: free
+status: PUBLIC
+listModel: '48'
+defaultModel: '49'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Nemo tenetur enim consectetur voluptatem velit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date10
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: image02
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link01
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: checkbox11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Nemo tenetur enim consectetur voluptatem velit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator03
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text05
+    value: null
+    values:
+      en: <p>Nemo tenetur enim consectetur voluptatem velit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: attach09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Nemo tenetur enim consectetur voluptatem velit.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: timestamp07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumeratormap08
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}

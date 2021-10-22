@@ -1,0 +1,66 @@
+id: 7463
+typeCode: ALD
+description: Content ALD 23 description
+mainGroup: free
+status: PUBLIC
+listModel: '138'
+defaultModel: '139'
+attributes:
+  - code: body
+    value: null
+    values:
+      en: <p>Ipsum nihil ipsum officiis quo quaerat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: date06
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: three-state11
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: bool09
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: link00
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: title
+    value: null
+    values:
+      en: <p>Ipsum nihil ipsum officiis quo quaerat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: text02
+    value: null
+    values:
+      en: <p>Ipsum nihil ipsum officiis quo quaerat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: enumerator07
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: description
+    value: null
+    values:
+      en: <p>Ipsum nihil ipsum officiis quo quaerat.</p>
+    elements: []
+    compositeelements: []
+    listelements: {}
